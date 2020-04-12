@@ -29,7 +29,7 @@ Clone or download the file and run `Word_Embedding.py` file.
 
 `python Word_Embedding.py -d 'Path to dataset'`
 
-![alt text](https://github.com/Shreyas2306/Word-Embedding-from-scratch/blob/master/Screenshot.png)
+![alt text](https://github.com/Shreyas2306/Word-Embedding-from-scratch-with-Tensorboard-Visualisation/blob/master/Screenshot.png)
 
 ### Output:
  Words similar to `Profit`.
